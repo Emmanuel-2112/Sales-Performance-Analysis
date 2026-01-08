@@ -1,5 +1,5 @@
 # PROJECT
-# 📊Sales-Performance-Analysis (Power BI Project)
+# 📊Sales- Data-Insight-Dashboard (Power BI Project)
 # Company Overview
 Eco Drive Motors is a UK-based automobile company selling Diesel, Petrol, and Electric vehicles to individual and fleet customers across multiple regions. The company aims to analyze two years of sales data using Power BI to understand sales trends, customer preferences, and environmental impact while aligning with sustainability goals and government regulations.
 # Prepared By 
