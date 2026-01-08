@@ -94,7 +94,8 @@ SUMX( 'Order Details','Order Details'[Units Sold]*'Order Details'[Selling Price 
   - Purpose: Compares contribution margins across vehicle categories.
   - KPIs linked: Profitability by Product Line
 
-## Dashboard–Insight Traceability Table
+# Dashboard–Insight Traceability Table
+## Insight - Table
 
 # Key Findings
 - Sales Mix analysis shows increasing adoption of low-emission vehicles, particularly Electric and Hybrid models.
@@ -111,10 +112,11 @@ SUMX( 'Order Details','Order Details'[Units Sold]*'Order Details'[Selling Price 
 - Profitability By Product Line evaluates how much each vehicle type contributes to the company’s financial performance after accounting for variable costs. 
 
 # Recommendations
-- Accelerate Electric vehicle adoption to strengthen regulatory compliance and sustainability credentials.
-- Reallocate resources toward high-performing regions while implementing corrective strategies in lagging areas.
-- Strengthen customer retention initiatives to maximise lifetime value.
-- Use contribution margin insights to refine pricing and product strategy.
+- **Increase Investment In Electric And Hybrid Vehicles:** Increase investment in Electric and Hybrid vehicle lines if their sales trend shows consistent growth. Gradually reduce reliance on Petrol vehicles where declining demand is observed. Use sales mix trends to guide inventory planning, pricing strategies, and marketing focus. Align long-term product development with low-emission vehicle demand to stay competitive and compliant with regulations.
+- **Focus On High - Performing Regions:** Strengthen investment and capacity in high-performing regions to maximize revenue potential. Investigate underperforming regions to identify issues such as pricing, customer preferences, or dealership inefficiencies. Implement region-specific sales strategies rather than a one-size-fits-all approach. Use regional insights to prioritize future dealership openings or closures.
+- **Loyalty Program Or After - Sales Bonus For Repeat Purchases:** Develop loyalty programs or after-sales services to encourage repeat purchases. Target new customer segments through promotions and awareness campaigns, especially for Electric and Hybrid vehicles. Use customer segmentation to personalize marketing and improve customer experience. Monitor retention trends regularly to reduce customer churn.
+- **Accelerate Electric And Hybrid Vehicle Sales Promotion:** Accelerate the promotion and sales of Electric and Hybrid vehicles to maximize emissions reduction. Use carbon savings metrics in sustainability reports and stakeholder communication. Align sustainability goals with sales incentives and product strategy. Position Eco Drive Motors as an environmentally responsible brand to gain competitive advantage.
+- **Prioritize Vehicle Types With Higher Contribution Margin:** Prioritize vehicle types with higher contribution margins, even if unit sales are lower. Review maintenance cost structures to improve margins across all product lines. Balance sustainability goals with profitability by focusing on Electric and Hybrid vehicles that deliver both environmental and financial value. Use profitability insights to guide product portfolio optimization and future investments.
 
 # Conclusion
 The EcoDrive Motors dashboard demonstrates how integrated analytics can support environmentally responsible decision-making while maintaining strong financial performance
