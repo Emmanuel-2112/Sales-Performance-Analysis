@@ -41,11 +41,11 @@ The dataset is:
 - Environmentally contextual, enabling carbon impact evaluation
 - Analytically robust, supporting both financial and sustainability reporting
 # Tools Used
-- Microsoft Excel: Served as the primary data source format, enabling structured storage of sales, product, and customer information.
-- Microsoft Power BI Desktop: Used as the main analytics and visualization platform for KPI tracking, sustainability reporting, and performance assessment aligned with UK 2030 carbon reduction goals.
-- Power Query Editor: Used for data cleaning, relationship preparation, and transformation processes to ensure analytical accuracy.
+- **Microsoft Excel:** Served as the primary data source format, enabling structured storage of sales, product, and customer information.
+- **Microsoft Power BI Desktop:** Used as the main analytics and visualization platform for KPI tracking, sustainability reporting, and performance assessment aligned with UK 2030 carbon reduction goals.
+- **Power Query Editor:** Used for data cleaning, relationship preparation, and transformation processes to ensure analytical accuracy.
 -----------------------
-# Methodology
+# METHODOLOGY 
 # 1. Data Cleaning & Transformation
 - Removed duplicate customer entries via dimensional modelling
 - Normalized vehicle type values (Electric, Hybrid, Petrol)
@@ -72,36 +72,48 @@ SUMX( 'Order Details','Order Details'[Units Sold]*'Order Details'[Selling Price 
 - Full DAX Measures and DAX Columns below
 [ECODRIVE  DAX MEASURE.pdf](https://github.com/user-attachments/files/24492416/ECODRIVE.DAX.MEASURE.pdf)
 
+-----
 # EXPLORATORY DATA ANALYSIS (EDA)
-# DASHBOARD
-Page 1: Sustainability & Market Performance
-Visual 1: Vehicle Sales Distribution (Donut Chart)
-Purpose:
-Highlights adoption of low-emission vehicles relative to petrol cars.
-KPIs linked:
-Sales Mix by Vehicle Type
+# Dashboard
+# Page 1: Sustainability & Market Performance
+- Visual 1: Vehicle Sales Distribution (Donut Chart)
+  - Purpose: Highlights adoption of low-emission vehicles relative to petrol cars.
+  - KPIs linked: Sales Mix by Vehicle Type
 
-Visual 2: Revenue by Region (Map / Bar Chart)
-Purpose:
-Shows geographic revenue concentration.
-KPIs linked:
-Revenue Contribution by Region
+- Visual 2: Revenue by Region (Bar Chart)
+  - Purpose: Shows geographic revenue concentration.
+  - KPIs linked: Revenue Contribution by Region
 
-Page 2: Customer & Profit Insights
-Visual 3: Customer Retention Analysis (Column Chart)
-Purpose:
-Evaluates repeat purchase behaviour.
-KPIs linked:
-Customer Acquisition & Retention
+# Page 2: Customer & Profit Insights
+  - Visual 3: Customer Retention Analysis (Column Chart)
+    - Purpose: Evaluates repeat purchase behaviour.
+    - KPIs linked: Customer Acquisition & Retention
 
-Visual 4: Carbon Reduction Progress (Card + Column)
-Purpose:
-Tracks cumulative emissions saved against sustainability goals.
-KPIs linked:
-Carbon Footprint Reduction
+- Visual 4: Profitability by Vehicle Type (Bar Chart)
+  - Purpose: Compares contribution margins across vehicle categories.
+  - KPIs linked: Profitability by Product Line
 
-Visual 5: Profitability by Vehicle Type (Bar Chart)
-Purpose:
-Compares contribution margins across vehicle categories.
-KPIs linked:
-Profitability by Product Line
+## Dashboard–Insight Traceability Table
+
+# Key Findings
+- Sales Mix analysis shows increasing adoption of low-emission vehicles, particularly Electric and Hybrid models.
+- Regional Revenue Contribution varies significantly, indicating opportunities for geographic optimization.
+- Repeat Customers demonstrate higher engagement and revenue contribution than new customers.
+- Carbon Footprint Reduction Metrics confirm meaningful progress toward long-term emission reduction targets.
+- Contribution Margin analysis highlights Electric vehicles as more financially sustainable despite higher operational costs.
+
+# Rationale
+- Sales Mix on each of the vehicle type helps to understanding customer demand patterns and product portfolio performance
+- Revenue Contribution By Region highlights geographical performance differences and identifies where the business is thriving or underperforming
+- Customer Acquisition and Retention Analysis helps Eco Drive Motors understand buying behaviour, loyalty, and long term revenue sustainability.
+- Carbon Footprint Reduction evaluates Eco Drive Motors’ contribution to environmental sustainability by estimating emissions avoided through Electric and Hybrid vehicle sales.
+- Profitability By Product Line evaluates how much each vehicle type contributes to the company’s financial performance after accounting for variable costs. 
+
+# Recommendations
+- Accelerate Electric vehicle adoption to strengthen regulatory compliance and sustainability credentials.
+- Reallocate resources toward high-performing regions while implementing corrective strategies in lagging areas.
+- Strengthen customer retention initiatives to maximise lifetime value.
+- Use contribution margin insights to refine pricing and product strategy.
+
+# Conclusion
+The EcoDrive Motors dashboard demonstrates how integrated analytics can support environmentally responsible decision-making while maintaining strong financial performance
