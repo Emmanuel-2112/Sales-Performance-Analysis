@@ -95,7 +95,8 @@ SUMX( 'Order Details','Order Details'[Units Sold]*'Order Details'[Selling Price 
   - KPIs linked: Profitability by Product Line
 
 # Dashboard–Insight Traceability Table
-## Insight - Table
+  - Insight - Table
+[ECODRIVE Traceability Table.pdf](https://github.com/user-attachments/files/24499842/ECODRIVE.Traceability.Table.pdf)
 
 # Key Findings
 - Sales Mix analysis shows increasing adoption of low-emission vehicles, particularly Electric and Hybrid models.
@@ -119,4 +120,7 @@ SUMX( 'Order Details','Order Details'[Units Sold]*'Order Details'[Selling Price 
 - **Prioritize Vehicle Types With Higher Contribution Margin:** Prioritize vehicle types with higher contribution margins, even if unit sales are lower. Review maintenance cost structures to improve margins across all product lines. Balance sustainability goals with profitability by focusing on Electric and Hybrid vehicles that deliver both environmental and financial value. Use profitability insights to guide product portfolio optimization and future investments.
 
 # Conclusion
-The EcoDrive Motors dashboard demonstrates how integrated analytics can support environmentally responsible decision-making while maintaining strong financial performance
+This analysis demonstrates how EcoDrive Motors can leverage Power BI to integrate financial performance, customer behaviour, and sustainability metrics into a single decision-support system. The dashboard delivers actionable insights that support profitability, regulatory compliance, and long-term sustainable growth, making it a valuable tool for executive decision-making.
+
+- Eco Drive Motors' Documentation 
+[ECODRIVE MOTORS DETAILED DOCUMENTATION.pdf](https://github.com/user-attachments/files/24500164/ECODRIVE.MOTORS.DETAILED.DOCUMENTATION.pdf)
