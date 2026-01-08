@@ -41,7 +41,7 @@ The dataset is:
 - Environmentally contextual, enabling carbon impact evaluation
 - Analytically robust, supporting both financial and sustainability reporting
 ------
-# Tools Used
+# TOOLS USED
 - **Microsoft Excel:** Served as the primary data source format, enabling structured storage of sales, product, and customer information.
 - **Microsoft Power BI Desktop:** Used as the main analytics and visualization platform for KPI tracking, sustainability reporting, and performance assessment aligned with UK 2030 carbon reduction goals.
 - **Power Query Editor:** Used for data cleaning, relationship preparation, and transformation processes to ensure analytical accuracy.
