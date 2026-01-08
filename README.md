@@ -1,6 +1,6 @@
 # 📊Sales-Performance-Analysis (Power BI Project)
 # Company Overview
-Eco Drive Motors is a UK-based automobile company that sells three types of vehicles: Diesel, Petrol, and Electric. The company operates across different regions and serves both individual and fleet customers. Eco Drive Motors wants to analyse its sales data to align with sustainability goals and government regulations, understanding trends, customer preferences, and environmental impact.  Eco Drive Motors has collected data on vehicle sales over the past two years and wants to use Power BI to analyse key performance indicators (KPIs) to help guide future decisions. 
+Eco Drive Motors is a UK-based automobile company selling Diesel, Petrol, and Electric vehicles to individual and fleet customers across multiple regions. The company aims to analyze two years of sales data using Power BI to understand sales trends, customer preferences, and environmental impact while aligning with sustainability goals and government regulations.
 # Prepared By 
 Taiwo Emmanuel 
 # Project Date
@@ -13,8 +13,11 @@ The automobile industry is shifting toward electric vehicles to reduce carbon em
 Eco Drive Motors seeks to evaluate its overall business performance while measuring the environmental impact of its vehicle sales in line with the UK government’s 2030 carbon reduction targets. The project focuses on analyzing sales, revenue distribution, customer behavior, profitability, and carbon footprint reduction using Power BI, enabling data-driven decisions that support both commercial growth and sustainability goals
 # Challenges Faced During The Project
 • Balancing business performance analysis with sustainability impact assessment within the same dashboard. 
+
 • Estimating carbon emissions avoided from Electric and Hybrid vehicle sales using available sales data
+
 • Identifying meaningful trends across multiple vehicle types (Diesel, Petrol, Hybrid, Electric) over time
+
 • Linking customer behavior and regional performance to profitability and sustainability objectives
 # Project Objectives
 • Analyze sales mix by vehicle type to identify adoption trends and shifts toward low-emission vehicles
