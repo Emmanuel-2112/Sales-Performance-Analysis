@@ -11,17 +11,25 @@ This project analyzes Eco Drive Motors’ vehicle sales data to evaluate busines
 The automobile industry is shifting toward electric vehicles to reduce carbon emissions. In the UK, transport accounts for about 25% of CO₂ emissions, prompting a ban on new petrol and diesel cars by 2030 and a net-zero target by 2050. While EVs offer zero tailpipe emissions, challenges remain around adoption, infrastructure, and customer acceptance
 # Project Statement 
 Eco Drive Motors seeks to evaluate its overall business performance while measuring the environmental impact of its vehicle sales in line with the UK government’s 2030 carbon reduction targets. The project focuses on analyzing sales, revenue distribution, customer behavior, profitability, and carbon footprint reduction using Power BI, enabling data-driven decisions that support both commercial growth and sustainability goals
-# Challenges Faced During The Project
-• Balancing business performance analysis with sustainability impact assessment within the same dashboard. 
+# Challenges
+The following are challenges this project aims to solve:
 
-• Estimating carbon emissions avoided from Electric and Hybrid vehicle sales using available sales data
+• Profitability vs Sustainability Trade-off
+Identifying vehicle types that support carbon-reduction goals while still delivering strong financial performance.
 
-• Identifying meaningful trends across multiple vehicle types (Diesel, Petrol, Hybrid, Electric) over time
+• Uneven Regional Performance
+Understanding which regions drive revenue and which require targeted improvement strategies.
 
-• Linking customer behavior and regional performance to profitability and sustainability objectives
+• Customer Retention Visibility
+Distinguishing between new and repeat customers to assess loyalty and revenue stability.
+
+• Profitability Assessment with Limited Cost Data
+Evaluating product-line profitability using maintenance cost as a practical proxy where full cost data is unavailable
 # Project Objectives
 • Analyze sales mix by vehicle type to identify adoption trends and shifts toward low-emission vehicles
-• Evaluate regional and dealership revenue contribution to highlight high-performing and underperforming areas
+
 • Assess customer acquisition and retention patterns, including repeat purchases and growth trends
+
 • Estimate carbon footprint reduction achieved through EV and Hybrid sales in relation to 2030 targets
+
 • Measure profitability by product line using gross profit and contribution margin analysis
