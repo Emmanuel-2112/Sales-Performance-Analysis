@@ -1,5 +1,5 @@
 # PROJECT
-# 📊Sales-Performance-Analysis (Power BI Project)
+# 🧠📊Sales-Performance-Analysis (Power BI Project)
 # Company Overview
 Eco Drive Motors is a UK-based automobile company selling Diesel, Petrol, and Electric vehicles to individual and fleet customers across multiple regions. The company aims to analyze two years of sales data using Power BI to understand sales trends, customer preferences, and environmental impact while aligning with sustainability goals and government regulations.
 # Prepared By 
@@ -24,7 +24,7 @@ The objective of this study is to;
 - Estimate carbon footprint reduction achieved through EV and Hybrid sales in relation to 2030 targets
 - Measure profitability by product line using gross profit and contribution margin analysis
 -----
-# DATA DESCRIPTION
+# 📑DATA DESCRIPTION
 # Data Source
 The dataset originates from a consolidated sales and product management system designed to support sustainability-focused automotive operations. It integrates sales transactions, vehicle technology classifications, and regional customer data to enable performance evaluation aligned with environmental and regulatory objectives.
 # Data Size and Format
@@ -41,12 +41,12 @@ The dataset is:
 - Environmentally contextual, enabling carbon impact evaluation
 - Analytically robust, supporting both financial and sustainability reporting
 ------
-# TOOLS USED
+# 👨‍💻TOOLS USED
 - **Microsoft Excel:** Served as the primary data source format, enabling structured storage of sales, product, and customer information.
 - **Microsoft Power BI Desktop:** Used as the main analytics and visualization platform for KPI tracking, sustainability reporting, and performance assessment aligned with UK 2030 carbon reduction goals.
 - **Power Query Editor:** Used for data cleaning, relationship preparation, and transformation processes to ensure analytical accuracy.
 -----------------------
-# METHODOLOGY 
+# 🗂METHODOLOGY 
 # 1. Data Cleaning & Transformation
 - Removed duplicate customer entries via dimensional modelling
 - Normalized vehicle type values (Electric, Hybrid, Petrol)
@@ -104,7 +104,7 @@ SUMX( 'Order Details','Order Details'[Units Sold]*'Order Details'[Selling Price 
   - Insight - Table
 [ECODRIVE Traceability Table.pdf](https://github.com/user-attachments/files/24499842/ECODRIVE.Traceability.Table.pdf)
 
-# Key Findings
+# 🔎Key Findings
 - Sales Mix analysis shows increasing adoption of low-emission vehicles, particularly Electric and Hybrid models.
 - Regional Revenue Contribution varies significantly, indicating opportunities for geographic optimization.
 - Repeat Customers demonstrate higher engagement and revenue contribution than new customers.
@@ -118,7 +118,7 @@ SUMX( 'Order Details','Order Details'[Units Sold]*'Order Details'[Selling Price 
 - Carbon Footprint Reduction evaluates Eco Drive Motors’ contribution to environmental sustainability by estimating emissions avoided through Electric and Hybrid vehicle sales.
 - Profitability By Product Line evaluates how much each vehicle type contributes to the company’s financial performance after accounting for variable costs. 
 
-# Recommendations
+# 📄Recommendations
 - **Increase Investment In Electric And Hybrid Vehicles:** Increase investment in Electric and Hybrid vehicle lines if their sales trend shows consistent growth. Gradually reduce reliance on Petrol vehicles where declining demand is observed. Use sales mix trends to guide inventory planning, pricing strategies, and marketing focus. Align long-term product development with low-emission vehicle demand to stay competitive and compliant with regulations.
 - **Focus On High - Performing Regions:** Strengthen investment and capacity in high-performing regions to maximize revenue potential. Investigate underperforming regions to identify issues such as pricing, customer preferences, or dealership inefficiencies. Implement region-specific sales strategies rather than a one-size-fits-all approach. Use regional insights to prioritize future dealership openings or closures.
 - **Loyalty Program Or After - Sales Bonus For Repeat Purchases:** Develop loyalty programs or after-sales services to encourage repeat purchases. Target new customer segments through promotions and awareness campaigns, especially for Electric and Hybrid vehicles. Use customer segmentation to personalize marketing and improve customer experience. Monitor retention trends regularly to reduce customer churn.
