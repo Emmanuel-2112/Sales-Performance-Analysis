@@ -77,11 +77,10 @@ SUMX( 'Order Details','Order Details'[Units Sold]*'Order Details'[Selling Price 
 # EXPLORATORY DATA ANALYSIS (EDA)
 # Dashboard
 - Dashboard 1
-<img width="1351" height="747" alt="Ecodrive Dashboard 1" src="https://github.com/user-attachments/assets/0a72d846-5bef-45da-a33b-19135f3ca7f8" />
+![Ecodrive Dashboard 11](https://github.com/user-attachments/assets/04896304-3ed3-4d68-aab8-9a5e9e311095)
 
 - Dashboard 2
-<img width="1359" height="756" alt="Ecodrive Dashboard 2" src="https://github.com/user-attachments/assets/a66b962e-6554-4b59-9042-ca79e1c996e7" />
-
+![Ecodrive Dashboard 22](https://github.com/user-attachments/assets/2528803f-22d5-4e10-8700-fd3836d04dbd)
 
 # Page 1: Sustainability & Market Performance
 - Visual 1: Vehicle Sales Distribution (Donut Chart)
